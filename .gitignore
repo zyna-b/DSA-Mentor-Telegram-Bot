@@ -1,0 +1,4 @@
+# Firebase credentials
+serviceAccountKey.json
+.env
+google-cloud-service-creds-for-sheets.json
